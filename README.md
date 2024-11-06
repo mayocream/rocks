@@ -1,2 +1,1 @@
-# rocks
-Mayo Rocks!
+# Mayo Rocks!
